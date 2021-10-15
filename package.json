@@ -1,5 +1,5 @@
 {
-  "name": "react-albus",
+  "name": "@pridyok/react-albus",
   "version": "2.0.0",
   "description": "React component library for building declarative multi-step flows.",
   "files": [
@@ -16,7 +16,7 @@
     "posttest": "npm run lint",
     "prepublish": "npm run build"
   },
-  "repository": "americanexpress/react-albus",
+  "repository": "pridyok/react-albus",
   "keywords": [
     "react",
     "react-component",
@@ -25,7 +25,8 @@
     "multistep",
     "routing"
   ],
-  "authors": [
+  "author": "Aaron Pridy <aaron@alteredpixels.io> (https://github.com/pridyok)",
+  "contributors": [
     "Jack Cross <jack.cross1@aexp.com> (https://github.com/jayjaycross)",
     "Nathan Force <nathan.a.force@aexp.com> (https://github.com/nathanforce)"
   ],
